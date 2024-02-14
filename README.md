@@ -9,6 +9,9 @@ Note: Thre is a separate Jupyter Notebook for Each Participant Analysis.
 # Questions in Focus:
 
 # Alec Analysis:
+For 80 years from 1910 - 1990 the number of olympic athletes winining medals remained constant, however after the year 1990, the data shows a statistically significant increase in the number of athletes winning medals. This remains constant for both summer and winter olympcs. Our analysis of the data shows that after the year 1990, 8 new sports, and 119 new unqiue events were added to the olympics (summer and winter), which explains the significant increase in number of athletes winning medals per olympic games. 
+
+Throughout the 100+ year span of the dataset, the most popular sport by number of countries winning medals is Athletics. There have been 56 different events in Athletics throughout the history of the datsset, with 79 different countries having won at least 1 medal in the sport. The United States has won the most medals in this sport with a total of 994. As explained in a later analysis, this finding is supported by the fact the United States has won almost 4x the amount of medals in the summer olympics than any other country. 
 
 # Bianca's Analysis:
 
