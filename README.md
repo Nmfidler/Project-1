@@ -1,5 +1,7 @@
 # Project-1
 
+Presentation = https://docs.google.com/presentation/d/1hFV8Ihc8JogFPVqJEvbYG0B42HJk8DQSrWRDR1-PjMU/edit?usp=sharing
+
 # Summary:
 
 More than 35,000 medals have been awarded at the olympics since 1896. Our dataset, “Olympic Sports and Medals, 1896 - 2014” dives into the history of the olympics, showing data for every olympic medal winner in the last 100+ years.
@@ -31,7 +33,3 @@ The data also reveals an intriguing overlap between five countries that consiste
 Looking at the data of the top 10 athletes with gold medals from the winter olympics the data highlights a significant trend in the Winter Olympics, where four out of the top 10 athletes with the most Gold Medals are from Norway. This substantial representation underscores Norway's proficiency in winter sports, establishing the country as a major force in terms of individual athletic achievements in this specific category. Examining the broader distribution, the remaining six positions in the top 10 athletes with Gold Medals are occupied by representatives from the United States (2), Finland (1), Germany (1), Sweden (1), and China (1). Notably, the countries with athletes in the top 10 Gold Medalists list also find representation on the broader Top 10 Countries with Gold Medals list. The interconnectedness of individual and national success in the Olympics is evident from the shared presence of countries on both lists.
 
 Lastly, when focusing on the data of the top 10 athletes with gold medals from the summer the data reveals a significant dominance of the United States in Summer Olympics, with six out of the top 10 athletes holding the most Gold Medals.This overwhelming representation highlights the USA's prowess in various summer sporting disciplines, highlighting the country's ability to produce consistently successful athletes on the global stage. The remaining four positions in the top 10 athletes with Gold Medals for Summer Olympics are occupied by athletes from Finland, Japan, Hungary, and Italy. An interesting observation emerges when analyzing the medal counts of athletes after Michael Phelps. Following Phelps, the data indicates a notable similarity in the number of medals held by the remaining athletes in the top 10. The presence of the United States, Hungary, and Italy in both the Top 10 Athletes with Gold Medals and the Top 10 Countries with Gold Medals lists underscores the correlation between individual athlete success and overall national performance. 
-
-
-Presentation = https://docs.google.com/presentation/d/1hFV8Ihc8JogFPVqJEvbYG0B42HJk8DQSrWRDR1-PjMU/edit?usp=sharing
-
