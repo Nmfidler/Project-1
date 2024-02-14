@@ -32,3 +32,6 @@ Looking at the data of the top 10 athletes with gold medals from the winter olym
 
 Lastly, when focusing on the data of the top 10 athletes with gold medals from the summer the data reveals a significant dominance of the United States in Summer Olympics, with six out of the top 10 athletes holding the most Gold Medals.This overwhelming representation highlights the USA's prowess in various summer sporting disciplines, highlighting the country's ability to produce consistently successful athletes on the global stage. The remaining four positions in the top 10 athletes with Gold Medals for Summer Olympics are occupied by athletes from Finland, Japan, Hungary, and Italy. An interesting observation emerges when analyzing the medal counts of athletes after Michael Phelps. Following Phelps, the data indicates a notable similarity in the number of medals held by the remaining athletes in the top 10. The presence of the United States, Hungary, and Italy in both the Top 10 Athletes with Gold Medals and the Top 10 Countries with Gold Medals lists underscores the correlation between individual athlete success and overall national performance. 
 
+
+Presentation = https://docs.google.com/presentation/d/1hFV8Ihc8JogFPVqJEvbYG0B42HJk8DQSrWRDR1-PjMU/edit?usp=sharing
+
