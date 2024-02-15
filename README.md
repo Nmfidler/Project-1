@@ -9,6 +9,15 @@ More than 35,000 medals have been awarded at the olympics since 1896. Our datase
 Note: Thre is a separate Jupyter Notebook for Each Participant Analysis.
 
 # Questions in Focus:
+Why has there been a recent increase in the number of athletes winning medals?
+Which sports are the most globally participated in?
+Who are the most successful olympic athletes?
+Which country are they from, and how has their success changed over time?
+Which events are the most popular?
+Do the countries with more medals overlap with higher GDP?
+Do men and women athletes earn comparable amount of medals?
+What countries have the most women medalists?
+What are gaps in the data sets?
 
 # Alec Analysis:
 For 80 years from 1910 - 1990 the number of olympic athletes winining medals remained constant, however after the year 1990, the data shows a statistically significant increase in the number of athletes winning medals. This remains constant for both summer and winter olympcs. Our analysis of the data shows that after the year 1990, 8 new sports, and 119 new unqiue events were added to the olympics (summer and winter), which explains the significant increase in number of athletes winning medals per olympic games. 
